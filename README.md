@@ -1,6 +1,5 @@
-
 # Task Tracker App
-- A React web app to add task and for  tracking tasks and highlingting  for reminder. 
+- A React web app to add task and for tracking tasks and highlingting  for reminder. 
 - The user can add new task.
 - The user can remove task.
 - The user can highlight task for reminder
